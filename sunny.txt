@@ -2,3 +2,6 @@ Sunny Chiu
 
 
 update in exp branch
+
+
+add a line afer setting up ssh to get hub
