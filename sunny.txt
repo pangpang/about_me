@@ -11,3 +11,6 @@ update in exp branch
 :Wq!
 
 add a line afer setting up ssh to get hub
+
+
+2nd update for charry-paicking
